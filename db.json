@@ -1,0 +1,90 @@
+[
+    {
+        "city": "London",
+        "temperature": "22°C",
+        "description": "Sunny",
+        "details": {
+            "feelsLike": "20°C",
+            "humidity": 60,
+            "windSpeed": "8m/s"
+        },
+        "icon": "images/clear.png"
+    },
+    {
+        "city": "New York",
+        "temperature": "15°C",
+        "description": "Partly Cloudy",
+        "details": {
+            "feelsLike": "14°C",
+            "humidity": 65,
+            "windSpeed": "5m/s"
+        },
+        "icon": "images/partly-cloudy.png"
+    },
+    {
+        "city": "Tokyo",
+        "temperature": "25°C",
+        "description": "Rainy",
+        "details": {
+            "feelsLike": "26°C",
+            "humidity": 80,
+            "windSpeed": "10m/s"
+        },
+        "icon": "images/rainy.png"
+    },
+    {
+        "city": "Sydney",
+        "temperature": "30°C",
+        "description": "Sunny",
+        "details": {
+            "feelsLike": "32°C",
+            "humidity": 50,
+            "windSpeed": "7m/s"
+        },
+        "icon": "images/sunny.png"
+    },
+    {
+        "city": "Moscow",
+        "temperature": "-5°C",
+        "description": "Snowy",
+        "details": {
+            "feelsLike": "-8°C",
+            "humidity": 90,
+            "windSpeed": "4m/s"
+        },
+        "icon": "images/snowy.png"
+    },
+    {
+        "city": "Cairo",
+        "temperature": "35°C",
+        "description": "Sunny",
+        "details": {
+            "feelsLike": "36°C",
+            "humidity": 20,
+            "windSpeed": "12m/s"
+        },
+        "icon": "images/clear.png"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": "30°C",
+        "description": "Humid",
+        "details": {
+            "feelsLike": "33°C",
+            "humidity": 85,
+            "windSpeed": "3m/s"
+        },
+        "icon": "images/humid.png"
+    },
+    {
+        "city": "Toronto",
+        "temperature": "10°C",
+        "description": "Overcast",
+        "details": {
+            "feelsLike": "8°C",
+            "humidity": 70,
+            "windSpeed": "6m/s"
+        },
+        "icon": "images/overcast.png"
+    }
+]
